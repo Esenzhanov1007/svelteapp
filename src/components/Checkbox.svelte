@@ -1,4 +1,3 @@
-<!-- Checkbox.svelte -->
 <script>
     export let label = "";
     export let checked = false;
